@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="897c3862-7744-44bc-8bab-3b796ddb0519" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marvin-screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/marvin.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/img/book1.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/img/book2.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
@@ -17,8 +15,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/img/svgExample.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/img/workco-logo.svg" />
@@ -38,15 +34,19 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/server.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/views/App/index.jsx" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/views/Dashboard/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/scss/app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/scss/base/_app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/scss/base/_breakpoints.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/scss/base/_normalize.scss" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.server.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack/config.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack/dev-server.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack/output-files.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/marvin-screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/marvin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/scss/app.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/scss/base/_app.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/scss/base/_breakpoints.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/scss/base/_normalize.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,6 +77,7 @@
         <option value="$PROJECT_DIR$/source/js/config/routes.jsx" />
         <option value="$PROJECT_DIR$/source/js/views/Dashboard/index.jsx" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -360,8 +361,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
