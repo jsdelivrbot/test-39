@@ -11,9 +11,6 @@ import App from 'views/App';
 import es6Promise from 'es6-promise';
 import 'isomorphic-fetch';
 
-// Load SCSS
-import '../scss/app.scss';
-
 es6Promise.polyfill();
 
 const store = configureStore();

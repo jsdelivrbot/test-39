@@ -11,9 +11,6 @@ import configureStore from 'config/store';
 import getServerHtml from 'config/server-html';
 import App from 'views/App';
 
-// Load SCSS
-import '../scss/app.scss';
-
 const app = express();
 const hostname = 'localhost';
 const port = 8080;
